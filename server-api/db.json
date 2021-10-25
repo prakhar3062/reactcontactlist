@@ -1,0 +1,24 @@
+{
+  "contacts": [
+    {
+      "id": "f50b394c-7b6f-4835-a4cd-ce15ef5d3814",
+      "name": "Prakhar Mishra",
+      "email": "prakhar3062@gmail.com"
+    },
+    {
+      "id": "bff85cac-81d0-4b21-911c-43dee4e56f1c",
+      "name": "Prakhar Mishra",
+      "email": "prakhar18052002@outlook.com"
+    },
+    {
+      "id": "e98da64e-37a2-45e6-9364-98a1ef9e5e48",
+      "name": "Prakhar Mishra",
+      "email": "prakharm.bt.20@nitj.ac.in"
+    },
+    {
+      "id": "fe212f65-046d-452a-a2c4-75e9bb9ee1ac",
+      "name": "STYLO",
+      "email": "admin@admin.com"
+    }
+  ]
+}
